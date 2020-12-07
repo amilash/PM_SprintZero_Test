@@ -9,14 +9,14 @@ The Project Team will manage this project as an Agile Software Development Proje
 * Sprint Retrospective - Meeting to assess teams approach, identify areas of improvement - ~1hr (Raft Project Team, Optional Client Project Sponsor/Owner)
 
 ### Project Team(s) Description 
-Client Stakeholder(s)- Project Sponsor, Product Owner, Design Owner, Tech Lead
-Product Manager - Raft
-Tech Lead- Raft
-Front End Dev - Raft
-Back end Dev - Raft
-Design Lead- Raft
-UX Researcher - Raft
-Content Strategist - Raft 
+* Client Stakeholder(s)- Project Sponsor, Product Owner, Design Owner, Tech Lead
+* Product Manager - Raft
+* Tech Lead- Raft
+* Front End Dev - Raft
+* Back end Dev - Raft
+* Design Lead- Raft
+* UX Researcher - Raft
+* Content Strategist - Raft 
 
 # Sprint Zero (0) Agenda
 Sprint Zero will consiste of a 2 week Project Discovery and Startup period whereby the Raft Team and Project Stakeholder Team will engage in discovery activities to identify and document the project goals, technical architecture, design approach, and align on next steps. 
@@ -39,7 +39,7 @@ Activities and deliverables can include:
 * Technical Architecture - Refine and Deliver V1 or 2, and agreed uplon technical stack/tools list
 * Design Deliverable(s) - User Persona(s), User Journey Map, Low fidelity Wireframes, Content hierarchy if relevant, or other.
 
-### 1. Kickoff Agenda <Date, Time> : 
+### 1. Kickoff Agenda Example <Date, Time>: 
 - Team Introductions - 5m 
 - Align Project Goals - Define Project Problem Statement and identify Users - 15m
 - Identify Technical Needs and Architecture - 10m
