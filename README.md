@@ -8,7 +8,7 @@ The Project Team will manage this project as an Agile Software Development Proje
 * Sprint Demo - Demonstrate working code that is ready for delivery - ~1hr (Client Stakeholders, Raft Project Team)
 * Sprint Retrospective - Meeting to assess teams approach, identify areas of improvement - ~1hr (Raft Project Team, Optional Client Project Sponsor/Owner)
 
-### Project Team(s) Description 
+### Project Teammember(s) Description 
 * Client Stakeholder(s)- Project Sponsor, Product Owner, Design Owner, Tech Lead
 * Product Manager - Raft
 * Tech Lead- Raft
