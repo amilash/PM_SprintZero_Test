@@ -19,7 +19,7 @@ The Project Team will manage this project as an Agile Software Development Proje
 * Content Strategist - Raft 
 
 # Sprint Zero (0) Agenda
-Sprint Zero will consiste of a 2 week Project Discovery and Startup period whereby the Raft Team and Project Stakeholder Team will engage in discovery activities to identify and document the project goals, technical architecture, design approach, and align on next steps. 
+Sprint Zero will consist of a 2 week Project Discovery phase whereby the Raft Project Team and Client Project Stakeholder Team will engage in discovery activities to identify and document the project goals, technical architecture, design approach, and align on next steps. 
 
 ## Week 1
 Week one will focus on Product Discovery defining and aligning project goals. The following meetings will take place in order to accomplish thiese goals. Inbetween meetings and afterwards the Raft Project Team will synthesie and engage in follow up research as well as project set up.
