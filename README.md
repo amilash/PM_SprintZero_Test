@@ -31,7 +31,7 @@ Week one will focus on Product Discovery defining and aligning project goals. Th
 Attendees desired for above meetings are the full Raft Project Team + Client Project Sponsor and Area Leads. Ideally Client Product, Design, and technical project owners can attend all discuvery activities. If not, leads are required. 
 
 ## Week 2
-Week 2 will focus on refining what we learned in Week 1, deepending our understanding, and folloing up on research items from the Design and Technical Architects. By the end of week 2 we should have a Project Plan, Product Goals Statement, Product Roadmap, Technical Architecture as well as an approach to Design and possibly some wireframes and low fidelity desoign documents. The Raft Technical contributers will use Week 2 of Sprint Zero to begin procurring access to any necessary systems, and setting up the technical project framework for delivery. The Design team will focus on wireframing and or low fidelity design deliverables.
+Week 2 will focus on refining what we learned in Week 1, deepening our understanding, and folloing up on research items from the Design and Technical Architects. By the end of week 2 we should have a Project Plan, Product Goals Statement, Product Roadmap, Technical Architecture as well as an approach to Design and possibly some wireframes and low fidelity desoign documents. The Raft Technical contributers will use Week 2 of Sprint Zero to begin procurring access to any necessary systems, and setting up the technical project framework for delivery. The Design team will focus on wireframing and or low fidelity design deliverables.
 Activities and deliverables can include:
 * Set Up Project Repos
 * Provision Account Access
