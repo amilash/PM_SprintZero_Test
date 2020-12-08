@@ -22,16 +22,16 @@ The Project Team will manage this project as an Agile Software Development Proje
 Sprint Zero will consist of a 2 week Project Discovery phase whereby the Raft Project Team and Client Project Stakeholder Team will engage in discovery activities to identify and document the project goals, technical architecture, design approach, and align on next steps. 
 
 ## Week 1
-Week one will focus on Product Discovery defining and aligning project goals. The following meetings will take place in order to accomplish these goals. Inbetween meetings and afterwards the Raft Project Team will synthesize inforamtion and engage in follow up research, and information gathering, as well as project set up.
+Week one will focus on Product Discovery defining and aligning project goals. The following meetings will take place in order to accomplish these goals. In between meetings and afterwards the Project Team will synthesize information and engage in follow up research, and information gathering, as well as project set up.
 1. Kickoff - Define and understand Project Goals, meet and greet team, discuss engagement approach.
 2. Technical Discussion- Draft and review Technical Architecture. 
 3. Design thinking workshop - Identify user needs and perform customer journey excersize.
 4. Product Refinement - review initial User Stories list and begin to define roadmap priorities
 
-Attendees desired for above meetings are the full Raft Project Team + Client Project Sponsor and Area Leads. Ideally the Client Product, Design, and technical project owners can attend all discovery activities. If not, area leads are required. 
+Attendees desired for above meetings are the full Project Team + Client Project Sponsor and Area Leads. Ideally the Client Product, Design, and technical project owners can attend all discovery activities. If not, area leads are required. 
 
 ## Week 2
-Week 2 will focus on refining what we learned in Week 1, deepening our understanding, and folloing up on research items from the Design and Technical Architects. By the end of week 2 we should have a Project Plan, Product Goals Statement, Product Roadmap, Technical Architecture as well as an approach to Design and possibly some wireframes and low fidelity design documents. The Raft Technical contributers will use Week 2 of Sprint Zero to begin procurring access to any necessary systems, and setting up the technical project framework for delivery. The Design team will focus on wireframing and or low fidelity design deliverables.
+Week 2 will focus on refining what we learned in Week 1, deepening our understanding, and following up on research items from the Design and Technical Architecture. By the end of week 2 we should have a Project Plan, Product Goals Statement, Product Roadmap, Technical Architecture as well as an approach to Design and possibly some wireframes and low fidelity design documents. The Raft Technical contributers will use Week 2 of Sprint Zero to begin procurring access to any necessary systems, and setting up the technical project framework for delivery. The Design team will focus on wireframing and or low fidelity design deliverables.
 Activities and deliverables can include:
 * Set Up Project Repos
 * Provision Account Access
